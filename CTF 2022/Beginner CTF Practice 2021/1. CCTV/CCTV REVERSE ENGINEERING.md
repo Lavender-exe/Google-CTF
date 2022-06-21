@@ -1,6 +1,9 @@
 **Name:** CCTV
+
 **Challenge:** REV
+
 **IP:** 34.149.14.242
+
 **Date:** 21/06/2022
 
 **Web-Technology:**
@@ -9,6 +12,7 @@
 - Mcafee ePO
 
 ================================================================
+
 **TO-DO LIST:**
 ___
 * Initial Enumeration
@@ -19,6 +23,7 @@ ___
 * Exploit
 
 ================================================================
+
 **NMAP:**
 ___
 
@@ -77,6 +82,7 @@ PORT      STATE SERVICE    REASON  VERSION
 So many open ports..
 
 ================================================================
+
 **WEB RESULTS:**
 ___
 
@@ -121,12 +127,14 @@ There's a JavaScript with a password function. The code seems to convert Clear T
 ```
 
 ================================================================
+
 **OTHER ENUM:**
 ___
 
 Tried using scripts to exploit ports `5222` XMPP and `8081` Mcafee ePO but neither worked
 
 ================================================================
+
 **EXPLOITATION:**
 ___
 ```python
