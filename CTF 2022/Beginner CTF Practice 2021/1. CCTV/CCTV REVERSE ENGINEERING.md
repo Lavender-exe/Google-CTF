@@ -11,8 +11,7 @@
 - XMPP
 - Mcafee ePO
 
-================================================================
-
+---
 **TO-DO LIST:**
 ___
 * Initial Enumeration
@@ -22,8 +21,7 @@ ___
 * Create Script
 * Exploit
 
-================================================================
-
+---
 **NMAP:**
 ___
 
@@ -81,8 +79,7 @@ PORT      STATE SERVICE    REASON  VERSION
 
 So many open ports..
 
-================================================================
-
+---
 **WEB RESULTS:**
 ___
 
@@ -126,15 +123,13 @@ There's a JavaScript with a password function. The code seems to convert Clear T
     </script>
 ```
 
-================================================================
-
+---
 **OTHER ENUM:**
 ___
 
 Tried using scripts to exploit ports `5222` XMPP and `8081` Mcafee ePO but neither worked
 
-================================================================
-
+---
 **EXPLOITATION:**
 ___
 ```python
