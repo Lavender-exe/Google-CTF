@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "2cee4d8180d4225b",
+    "type": "split",
+    "children": [
+      {
+        "id": "db24a4de79e89801",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CTF 2022/Beginner CTF Practice 2021/1. CCTV/CCTV REVERSE ENGINEERING.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cad81758da7a9345",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b06e6c7b34a5498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f084e42e58db820",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7590457833d517c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ebb8fb527a02ea51",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e022d4572dfae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ed105b444c8a41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTF 2022/Beginner CTF Practice 2021/1. CCTV/CCTV REVERSE ENGINEERING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db24a4de79e89801",
+  "lastOpenFiles": [
+    "CTF 2022/Beginner CTF Practice 2021/1. CCTV/CCTV REVERSE ENGINEERING.md",
+    "Beginner-CTF/1. CCTV/1. CCTV REVERSE ENGINEERING.md",
+    "Beginner-CTF/XMPPloit/Untitled.md"
+  ]
+}
