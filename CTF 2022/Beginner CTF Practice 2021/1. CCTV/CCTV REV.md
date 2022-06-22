@@ -166,3 +166,4 @@ for i in range (max(code.keys()) + 1):
 print (password)
 ```
 
+You will get a password to access the website, and the flag.
