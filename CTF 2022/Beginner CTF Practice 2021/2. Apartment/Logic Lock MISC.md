@@ -24,9 +24,9 @@ ___
 **RESOURCES:**
 ___
 
-![[Pasted image 20220622034550.png]]
+![Logic Gates Cheat Sheet](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622034550.png)
 
-![[logic-lock.png]]
+![logic-lock](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Beginner%20CTF%20Practice%202021/2.%20Apartment/logic-lock.png)
 
 ---
 **TRUTH TABLE:**
@@ -34,9 +34,9 @@ ___
 
 [Logic Gate Builder](https://logic.ly/demo/)
 
-![[Pasted image 20220622035608.png]]
+![1](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622035608.png)
 
 Turning I and J outputs 1
 
-![[Pasted image 20220622035632.png]]
+![2](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622035632.png)
 
