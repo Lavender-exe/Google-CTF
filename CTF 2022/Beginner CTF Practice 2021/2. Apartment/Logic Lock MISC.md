@@ -16,7 +16,7 @@ It turned out suspect's appartment has an electronic lock. After analyzing the P
 ---
 **TO-DO LIST:**
 ___
-* ~~Construct Truth Table~~~
+* ~~Construct Truth Table~~
 * ~~Break down the file into seperate truth tables~~
 * Reconstruct logic gates using an online sim 
 
@@ -24,9 +24,9 @@ ___
 **RESOURCES:**
 ___
 
-![Logic Gates Cheat Sheet](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622034550.png)
+![[Pasted image 20220622034550.png]]
 
-![logic-lock](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Beginner%20CTF%20Practice%202021/2.%20Apartment/logic-lock.png)
+![[logic-lock.png]]
 
 ---
 **TRUTH TABLE:**
@@ -34,9 +34,9 @@ ___
 
 [Logic Gate Builder](https://logic.ly/demo/)
 
-![1](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622035608.png)
+![[Pasted image 20220622041657.png]]
 
-Turning I and J outputs 1
+Set B, C, F, I and J to 1 to get the flag
 
-![2](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622035632.png)
+![[Pasted image 20220622041730.png]]
 

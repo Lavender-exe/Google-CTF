@@ -3,5 +3,6 @@
   "obsidian-mind-map",
   "obsidian-git",
   "oz-image-plugin",
-  "url-into-selection"
+  "url-into-selection",
+  "oz-clear-unused-images"
 ]
