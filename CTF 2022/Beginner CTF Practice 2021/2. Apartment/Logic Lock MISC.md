@@ -24,9 +24,9 @@ ___
 **RESOURCES:**
 ___
 
-![[Pasted image 20220622034550.png]]
+![](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622034550.png)
 
-![[logic-lock.png]]
+![](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Beginner%20CTF%20Practice%202021/2.%20Apartment/logic-lock.png)
 
 ---
 **TRUTH TABLE:**
@@ -34,9 +34,9 @@ ___
 
 [Logic Gate Builder](https://logic.ly/demo/)
 
-![[Pasted image 20220622041657.png]]
+![](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622041657.png)
 
 Set B, C, F, I and J to 1 to get the flag
 
-![[Pasted image 20220622041730.png]]
+![](https://github.com/Lavender-exe/Google-CTF/blob/main/CTF%202022/Attachments/Pasted%20image%2020220622041730.png)
 
